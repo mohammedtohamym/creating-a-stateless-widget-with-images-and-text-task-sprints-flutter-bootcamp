@@ -1,16 +1,15 @@
-# the_first_flutter_project
+# The first flutter project
+## Overview
 
-A new Flutter project.
+This app displayes two images, one from the local files and the other form the internet.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Code Details
 
-A few resources to get you started if this is your first Flutter project:
+Row, Column and cernter widgets are used to
+positoin the content of the page correctly.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Output
+![image](https://github.com/user-attachments/assets/8d15a720-40fc-4be4-aedf-02cf706128b4)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
